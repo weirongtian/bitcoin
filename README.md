@@ -24,4 +24,6 @@
 <br />./geth --datadir node4 --unlock "0xb3D9A92178B7Db725Cf129bE03E8861cC8E31c64
 " --mine --port 30304 --bootnodes "enode://95a740dd9cd434f9fc4a3bbc273ff09975c99c08bac5c6d19ed14ae5d37c51ce536aec3a9405359b5be8d1c09eb773e9fee4ce8d2059427b7f9a48796dfe1fe9@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 <br />Now, two nodes are running
-<br />5 run the nodes in sperate terminal windows 
+<br />5 Check the balance at MyCrpto
+<br />Using Keystore File to open the Wallet 
+<img width="1208" alt="Screen Shot 2021-05-02 at 12 16 32 PM" src="https://user-images.githubusercontent.com/74516858/116819903-50653a00-ab40-11eb-9032-f5d80b8d8ec2.png">
